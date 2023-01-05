@@ -1,0 +1,27 @@
+Date
+
+S&P 500 Comp P
+
+Dividend D
+
+Earnings E
+
+Consumer Price Index CPI
+
+Date Fraction
+
+Long Interest Rate GS10
+
+Real Price
+
+Real Dividend
+
+Real Total Return Price
+
+Real Earnings
+
+Real TR Scaled Earnings
+
+Cyclically Adjusted Price Earnings Ratio PE10 or CAPE
+
+Cyclically Adjusted Total Return Price Earnings Ratio TR P/E10 or TR CAPE
