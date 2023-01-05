@@ -25,3 +25,15 @@ Real TR Scaled Earnings
 Cyclically Adjusted Price Earnings Ratio PE10 or CAPE
 
 Cyclically Adjusted Total Return Price Earnings Ratio TR P/E10 or TR CAPE
+
+Excess DCAPE Yield
+
+Monthly Total Bond Returns
+
+Real Total Bond Returns
+
+10 Year Annualized Stock Real Return
+
+10 Year Annualized Bonds Real Return
+
+Real 10 Year Excess Annualized Returns

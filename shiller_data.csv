@@ -1,4 +1,4 @@
-Date,P,D,E,CPI,Fraction,Rate GS10,Price,Dividend, Price ,Earnings, Earnings ,CAPE,,TR CAPE,,Yield,Returns,Returns,Real Return,Real Return,Returns
+Date,P,Dividend,Earnings,CPI,Date Fraction,Rate GS10,Real Price,Real Dividend,Real Total Return Price,Real Earnings,Real Total Scaled Earnings,CAPE,,TR CAPE,Blank,Excess CAPE Yield,Monthly Total Bond Returns,Real Total Bond Returns,10y Stock Real Return,10y Bonds Real Return,Real 10y Excess Returns
 1871.01,4.44,0.26,0.40,12.46,1871.04,5.32,106.00,6.21,  106.00 ,9.55,  9.55 ,NA,,NA,,,1.00,1.00,13.06%,9.25%,3.81%
 1871.02,4.50,0.26,0.40,12.84,1871.13,5.32,104.25,6.02,  104.75 ,9.27,  9.31 ,NA,,NA,,,1.00,0.97,13.09%,9.46%,3.62%
 1871.03,4.61,0.26,0.40,13.03,1871.21,5.33,105.24,5.94,  106.24 ,9.13,  9.22 ,NA,,NA,,,1.00,0.96,13.10%,9.62%,3.48%
